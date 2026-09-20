@@ -1,0 +1,4 @@
+# local render previews, not part of the profile
+.preview.html
+.compare.html
+.DS_Store

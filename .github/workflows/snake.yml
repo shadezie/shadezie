@@ -1,0 +1,32 @@
+name: generate contribution grid
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: generate monochrome snake
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=%23ffffff&color_dots=%23141414,%233a3a3a,%23707070,%23b4b4b4,%23ffffff
+            dist/snake-light.svg?color_snake=%23111111&color_dots=%23ebebeb,%23c4c4c4,%238a8a8a,%234a4a4a,%23111111
+
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" fill="none" role="img" aria-label="a browser window with a type and spacing inspection overlay measuring a heading">
+<rect x="24" y="24" width="1152" height="472" rx="10" stroke="#d8d8d8" stroke-width="1.5"/>
+<line x1="24" y1="76" x2="1176" y2="76" stroke="#d8d8d8" stroke-width="1.5"/>
+<circle cx="54" cy="50" r="5" stroke="#8a8a8a" stroke-width="1.2"/>
+<circle cx="76" cy="50" r="5" stroke="#8a8a8a" stroke-width="1.2"/>
+<circle cx="98" cy="50" r="5" stroke="#8a8a8a" stroke-width="1.2"/>
+<rect x="130" y="38" width="300" height="24" rx="12" stroke="#d8d8d8" stroke-width="1.2"/>
+<text x="148.0" y="55.0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="13" fill="#8a8a8a" text-anchor="start">any website</text>
+<rect x="72" y="128" width="150" height="14" rx="7" fill="#111111" opacity="0.28"/>
+<rect x="72" y="172" width="520" height="46" rx="4" fill="#111111" opacity="0.14"/>
+<rect x="72" y="172" width="520" height="46" rx="4" stroke="#111111" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="68" y="168" width="8" height="8" fill="#111111"/>
+<rect x="588" y="168" width="8" height="8" fill="#111111"/>
+<rect x="68" y="214" width="8" height="8" fill="#111111"/>
+<rect x="588" y="214" width="8" height="8" fill="#111111"/>
+<rect x="72" y="262" width="470" height="10" rx="5" fill="#111111" opacity="0.16"/>
+<rect x="72" y="288" width="500" height="10" rx="5" fill="#111111" opacity="0.16"/>
+<rect x="72" y="314" width="430" height="10" rx="5" fill="#111111" opacity="0.16"/>
+<rect x="72" y="340" width="360" height="10" rx="5" fill="#111111" opacity="0.16"/>
+<line x1="640" y1="218" x2="640" y2="262" stroke="#111111" stroke-width="1.2"/>
+<line x1="633" y1="218" x2="647" y2="218" stroke="#111111" stroke-width="1.2"/>
+<line x1="633" y1="262" x2="647" y2="262" stroke="#111111" stroke-width="1.2"/>
+<text x="654.0" y="245.0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#111111" text-anchor="start">44</text>
+<line x1="592" y1="172" x2="700" y2="172" stroke="#111111" stroke-width="1" stroke-dasharray="3 5" opacity="0.5"/>
+<line x1="592" y1="218" x2="700" y2="218" stroke="#111111" stroke-width="1" stroke-dasharray="3 5" opacity="0.5"/>
+<rect x="800" y="150" width="328" height="210" rx="8" stroke="#111111" stroke-width="1.5"/>
+<line x1="800" y1="192" x2="1128" y2="192" stroke="#d8d8d8" stroke-width="1.2"/>
+<text x="820.0" y="177.0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#111111" text-anchor="start" letter-spacing="1.2">INSPECT</text>
+<text x="820.0" y="222.0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#8a8a8a" text-anchor="start">font</text>
+<text x="1108.0" y="222.0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#111111" text-anchor="end">Inter</text>
+<text x="820.0" y="250.0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#8a8a8a" text-anchor="start">size</text>
+<text x="1108.0" y="250.0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#111111" text-anchor="end">32 / 40</text>
+<text x="820.0" y="278.0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#8a8a8a" text-anchor="start">weight</text>
+<text x="1108.0" y="278.0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#111111" text-anchor="end">600</text>
+<text x="820.0" y="306.0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#8a8a8a" text-anchor="start">tracking</text>
+<text x="1108.0" y="306.0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#111111" text-anchor="end">-0.02em</text>
+<text x="820.0" y="334.0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#8a8a8a" text-anchor="start">color</text>
+<text x="1108.0" y="334.0" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="14" fill="#111111" text-anchor="end">#111111</text>
+<path d="M 592 182 L 772 182 L 772 171 L 800 171" stroke="#111111" stroke-width="1.2" stroke-dasharray="4 4" opacity="0.6"/>
+<circle cx="772" cy="171" r="3" fill="#111111"/>
+<line x1="72" y1="458" x2="1128" y2="458" stroke="#d8d8d8" stroke-width="1"/>
+<line x1="72" y1="458" x2="72" y2="448" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="96" y1="458" x2="96" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="120" y1="458" x2="120" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="144" y1="458" x2="144" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="168" y1="458" x2="168" y2="448" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="192" y1="458" x2="192" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="216" y1="458" x2="216" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="240" y1="458" x2="240" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="264" y1="458" x2="264" y2="448" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="288" y1="458" x2="288" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="312" y1="458" x2="312" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="336" y1="458" x2="336" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="360" y1="458" x2="360" y2="448" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="384" y1="458" x2="384" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="408" y1="458" x2="408" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="432" y1="458" x2="432" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="456" y1="458" x2="456" y2="448" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="480" y1="458" x2="480" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="504" y1="458" x2="504" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="528" y1="458" x2="528" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="552" y1="458" x2="552" y2="448" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="576" y1="458" x2="576" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="600" y1="458" x2="600" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="624" y1="458" x2="624" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="648" y1="458" x2="648" y2="448" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="672" y1="458" x2="672" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="696" y1="458" x2="696" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="720" y1="458" x2="720" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="744" y1="458" x2="744" y2="448" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="768" y1="458" x2="768" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="792" y1="458" x2="792" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="816" y1="458" x2="816" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="840" y1="458" x2="840" y2="448" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="864" y1="458" x2="864" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="888" y1="458" x2="888" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="912" y1="458" x2="912" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="936" y1="458" x2="936" y2="448" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="960" y1="458" x2="960" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="984" y1="458" x2="984" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="1008" y1="458" x2="1008" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="1032" y1="458" x2="1032" y2="448" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="1056" y1="458" x2="1056" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="1080" y1="458" x2="1080" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+<line x1="1104" y1="458" x2="1104" y2="453" stroke="#8a8a8a" stroke-width="1" opacity="0.7"/>
+</svg>
