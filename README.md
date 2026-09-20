@@ -21,7 +21,7 @@
 
 ### now
 
-product design at **Basik Marketing**, mostly shipping on the **The Esports Club** platform,
+product design at **Basik Marketing**, mostly shipping **[The Esports Club](https://theesports.club)**'s platform,
 with oversight on TEC Spartan and internal tools.
 
 the rest of my time goes into ai workflows, interaction, and code prototyping —
